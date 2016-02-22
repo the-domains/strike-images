@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Strike Images]]></title>
+        <description><![CDATA[Strike Images]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 01:07:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to the new strike images website. We look forward to serve you better and bring you unique images that are  quite strikingly good in quality. This site is right now under construction. </p>]]></description>
+            <link>undefinedd61b809c-7455-497b-8ee8-3e7049cb53b0/index.html</link>
+            <guid isPermaLink="false">d61b809c-7455-497b-8ee8-3e7049cb53b0</guid>
+            <pubDate>Mon, 22 Feb 2016 01:07:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
